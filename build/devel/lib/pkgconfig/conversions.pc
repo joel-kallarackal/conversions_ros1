@@ -1,0 +1,8 @@
+prefix=/home/kallrax/AIRL/ws_livox/src/conversions/build/devel
+
+Name: conversions
+Description: Description of conversions
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
